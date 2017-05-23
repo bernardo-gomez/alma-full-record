@@ -13,4 +13,5 @@ the string could have one of three formats:
    - get_alma_record.cfg , the configuration file.
 
 **get_alma_record** retrieves bibliographic and holding information from 
-ALMA via ALMA API requests. 
+ALMA via ALMA API requests.
+the item information is displayed as a "999" MARC field.
