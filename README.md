@@ -1,6 +1,8 @@
-# alma-full-record
-It produces marcxml output for an ex-libris alma record.
+# get_alma_record
+Python-based webservice that receives an Alma mms_id or an item barcode and
+produces a MARCXML string that contains the bibliographic record and items.
 
-Python webservice that receives Alma's mms_id or item's barcode and produces MARCXML output.
+**Files**: 
+   - get_alma_record.py , the main script;
+   - get_alma_record.cfg , the configuration file.
 
-<b>Under construction...</b>
